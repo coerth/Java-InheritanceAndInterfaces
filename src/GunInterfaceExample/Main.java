@@ -7,5 +7,9 @@ public class Main
     public static void main(String[] args)
     {
         WeaponHandler weaponHandler = new WeaponHandler();
+
+        Weapon equippedWeapon = new Handgun();
+
     }
+
 }
